@@ -442,7 +442,7 @@ a:focus {
   border: 1px solid transparent;
   border-radius: 5px;
   margin-top: 15px;
-  margin-bottom: 45px;
+  margin-bottom: 15px;
 }
 
 .contact_section .contact_form button:hover, .button:hover {
